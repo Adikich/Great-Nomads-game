@@ -14,7 +14,7 @@ The idea came during the **World Nomad Games**. Kazakhstan has very few games in
 
 ## 🎮 Download
 
-**[⬇ Download the game for Windows (Nomad.exe)](../../releases/latest)**
+**[⬇ Download the game for Windows](../../releases/latest)**
 
 ## About the game
 
